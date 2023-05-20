@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tamirossmbox/react-electron-app/issues"
   },
-  "homepage": "https://github.com/tamirossmbox/react-electron-app#readme"
+  "homepage": "https://github.com/tamirossmbox/react-electron-app#readme",
+  "devDependencies": {
+    "electron": "^24.3.1"
+  }
 }
