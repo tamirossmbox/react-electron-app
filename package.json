@@ -1,0 +1,23 @@
+{
+  "name": "react-electron-app",
+  "version": "1.0.0",
+  "description": "electron app with react POC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamirossmbox/react-electron-app.git"
+  },
+  "keywords": [
+    "react",
+    "electron"
+  ],
+  "author": "tamiross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamirossmbox/react-electron-app/issues"
+  },
+  "homepage": "https://github.com/tamirossmbox/react-electron-app#readme"
+}
